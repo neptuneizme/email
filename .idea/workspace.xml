@@ -9,28 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d636556-87b2-4a4d-8da7-259fa02dedee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/murach/email/business/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/murach/email/data/UserDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/murach/email/data/UserIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/murach/email/email/TestServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/EmailList.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/error_404.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/error_java.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/styles/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/thanks.jsp" afterDir="false" />
+    <list default="true" id="9d636556-87b2-4a4d-8da7-259fa02dedee" name="Changes" comment="Homework from chapter 5.1 to 8.1 WEB Programming">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,11 +165,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696951934427</updated>
-      <workItem from="1696951935705" duration="2653000" />
+      <workItem from="1696951935705" duration="5247000" />
     </task>
+    <task id="LOCAL-00001" summary="Homework from chapter 5.1 to 8.1 WEB Programming">
+      <option name="closed" value="true" />
+      <created>1696955876068</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696955876068</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homework from chapter 5.1 to 8.1 WEB Programming" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework from chapter 5.1 to 8.1 WEB Programming" />
   </component>
 </project>
